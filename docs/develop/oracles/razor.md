@@ -16,5 +16,4 @@ The core of Razor Network is a set of smart contracts, that can run on any Ether
 
 This oracle network is currently running on Görli testnet. A "[Bridge](https://github.com/razor-network/bridge)", which picks results from the network and delivers them to Matic Network. To get started with connecting to the data feed, check out this **[Tutorial](https://docs.razor.network/tutorial/matic/)**
 
-- The bridge has been updated with more features and linked to razorscan [https://razorscan.io/](https://razorscan.io/) (Make sure to connect metamask to matic testnet!)
 
